@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aman-Portfolio/static/css/main.d6776da5.css",
+    "main.js": "/Aman-Portfolio/static/js/main.b3b05a37.js",
+    "static/media/my_logo.png": "/Aman-Portfolio/static/media/my_logo.940a3a0f935d7925ae4d.png",
+    "static/media/T.jpg": "/Aman-Portfolio/static/media/T.921edb2cba0bf755df67.jpg",
+    "static/media/react.png": "/Aman-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/Aman-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/Aman-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Aman-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Aman-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/am.jpg": "/Aman-Portfolio/static/media/am.b55b55648652f6ea1415.jpg",
+    "static/media/javascript.png": "/Aman-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Aman-Portfolio/index.html",
+    "main.d6776da5.css.map": "/Aman-Portfolio/static/css/main.d6776da5.css.map",
+    "main.b3b05a37.js.map": "/Aman-Portfolio/static/js/main.b3b05a37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6776da5.css",
+    "static/js/main.b3b05a37.js"
+  ]
+}

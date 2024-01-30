@@ -45,7 +45,7 @@ const Project = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-2xl font-bold text-black tracking-wider  '>
-               Amazon clone React Js
+               Amazon clone React
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://aman-srivastav24.github.io/AmazonClone/'>
